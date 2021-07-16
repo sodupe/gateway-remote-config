@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE2ABF6D",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude":  43.01668377469161,
+    "ref_longitude": -2.2473558783531193,
+    "ref_altitude": 250,
+    "contact_email": "teknikoa@sodupe.eu",
+    "description": "SodupeTest GTW"
+  }
+}
